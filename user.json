@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id" : 1,
+            "first_name" : "scarwart",
+            "last_name" : "robert",
+            "email" : "rob2@gmail.com"
+        },
+        {
+            "id" : 2,
+            "first_name" : "andre",
+            "last_name" : "charlie",
+            "email" : "andre2@gmail.com"
+        },
+        {
+            "id" : 3,
+            "first_name" : "bagaze",
+            "last_name" : "robertoe",
+            "email" : "bagaze@gmail.com"
+        },
+        {
+            "id" : 4,
+            "first_name" : "lonardo",
+            "last_name" : "robertenie",
+            "email" : "lonardo@gmail.com"
+        },
+        {
+            "id" : 5,
+            "first_name" : "stefia",
+            "last_name" : "rotina",
+            "email" : "stefiarof@gmail.com"
+        }
+    ]
+}
